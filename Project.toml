@@ -1,0 +1,10 @@
+name = "KaHyPar_jll"
+uuid = "87a0c12d-51e1-52a8-b1ed-2b00825fe6a4"
+version = "1.0.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
